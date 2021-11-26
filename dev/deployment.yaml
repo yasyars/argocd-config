@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -33,3 +34,5 @@ spec:
   ports:
   - port: 80
     targetPort: 5000
+=======
+>>>>>>> 155ae13882a9bdc03643fa9828739dee828e931a
